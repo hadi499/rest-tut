@@ -1,2 +1,2 @@
 # rest-tut
-nodejs mongodb express
+nodejs-mongodb-express
